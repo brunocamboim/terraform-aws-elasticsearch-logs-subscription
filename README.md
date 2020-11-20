@@ -1,5 +1,9 @@
 # Introduction 
 A example project to create an elasticsearch and a subscription filter to get logs inside the CloudWatch and send to lambda. The lambda will send the data to elasticsearch.
+I'm using the following services:
+  - ElasticSearch
+  - CloudWatch
+  - Lambda
 
 # Getting Started
 First of all, clone the repository.
